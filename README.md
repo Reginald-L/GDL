@@ -1,2 +1,2 @@
 # GDL
-Game Description Language
+Game Description Language for GAME - TIGER VS DOGS 
